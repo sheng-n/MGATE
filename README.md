@@ -17,3 +17,6 @@ and disease. Experimental results on the public dataset show that the area under
 under precision-recall curve of MGATE are 0.964 and 0.413, respectively. MGATE performance significantly outperformed seven state-
 of-the-art methods. Furthermore, the case studies of three cancers further demonstrate the ability of MGATE to identify potential
 disease-correlated candidate lncRNAs
+
+
+![image](https://user-images.githubusercontent.com/95516781/154301202-167f6fab-bb5c-4eb9-b1e3-27dc38005011.png)
